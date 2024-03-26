@@ -1,0 +1,14 @@
+C:\_gd\Csharp\ExClasses\bin\Debug\net8.0\ExClasses.exe
+C:\_gd\Csharp\ExClasses\bin\Debug\net8.0\ExClasses.deps.json
+C:\_gd\Csharp\ExClasses\bin\Debug\net8.0\ExClasses.runtimeconfig.json
+C:\_gd\Csharp\ExClasses\bin\Debug\net8.0\ExClasses.dll
+C:\_gd\Csharp\ExClasses\bin\Debug\net8.0\ExClasses.pdb
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.AssemblyInfoInputs.cache
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.AssemblyInfo.cs
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.csproj.CoreCompileInputs.cache
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.dll
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\refint\ExClasses.dll
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.pdb
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ExClasses.genruntimeconfig.cache
+C:\_gd\Csharp\ExClasses\obj\Debug\net8.0\ref\ExClasses.dll
