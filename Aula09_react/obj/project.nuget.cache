@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R+jK7Su8T+eyPcwo+KhG/wt4lzdfSGC2wQoLed3UglSHvZZouHWp0FLEi+XoduRv/UgJF95o+Y4y+PZiN0IlcA==",
+  "dgSpecHash": "KTWlSliEhvIO+UskYZewnPPii4M+kTBbAdl4fHj6gbMNvpa7+TcKbIjsDs7WMyamJX5QXk1y1JS4x0fC/NmJWA==",
   "success": true,
-  "projectFilePath": "C:\\_ws\\top_m\\ExRelacionamentos\\MREL.csproj",
+  "projectFilePath": "C:\\_gd\\Aulas-CSharp\\Aula09_react\\MREL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\autologon\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

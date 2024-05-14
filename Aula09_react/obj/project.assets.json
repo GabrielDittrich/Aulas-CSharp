@@ -4140,11 +4140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_ws\\top_m\\ExRelacionamentos\\MREL.csproj",
+      "projectUniqueName": "C:\\_gd\\Aulas-CSharp\\Aula09_react\\MREL.csproj",
       "projectName": "MREL",
-      "projectPath": "C:\\_ws\\top_m\\ExRelacionamentos\\MREL.csproj",
+      "projectPath": "C:\\_gd\\Aulas-CSharp\\Aula09_react\\MREL.csproj",
       "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
-      "outputPath": "C:\\_ws\\top_m\\ExRelacionamentos\\obj\\",
+      "outputPath": "C:\\_gd\\Aulas-CSharp\\Aula09_react\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
