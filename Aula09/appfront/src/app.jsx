@@ -1,8 +1,26 @@
+import './App.css'
+import Header from './layout/Header';
+import Aside from './layout/Aside';
+import Footer from './layout/Footer';
+import Home from './paginas/Home';
+import Nav from './layout/Nav';
+
 function App(){
     return (
-        <div>
-            <h1> App React (Exemplo)</h1>
+        <body>
+           <div>
+                <Header />
+
+                <Nav />
+
+                <Aside />
+
+                <Main />
+
+                <Footer />
+
         </div>
+    </body>
     );
 }
 
