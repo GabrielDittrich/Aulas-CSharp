@@ -1,8 +1,8 @@
 
 function Pagina3() {
     return (
-        <div>
-            <p>Página 3</p>
+        <div class='principal'>
+            <h2>Página 3</h2>
         </div>
     );
 }
